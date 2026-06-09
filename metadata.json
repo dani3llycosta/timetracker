@@ -1,0 +1,6 @@
+{
+  "name": "Time Tracker",
+  "description": "A elegant and minimal time tracking dashboard to monitor work category breakdowns, manual logs, and weekly productivity insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
